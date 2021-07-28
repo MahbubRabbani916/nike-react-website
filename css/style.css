@@ -1,0 +1,32 @@
+.nike-banner{
+    background-color:#FFF9F4; ;
+}
+.casual-shoe-image{
+    
+
+    background: #F1F1F1;
+border-radius: 20px;
+margin: auto;
+padding: 2rem;
+
+}
+
+
+.casual-shoe-column{
+    border-radius: 20px;
+} 
+.buy-now-btn{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+border-radius: 10px;
+    display: flex;
+   
+    color: #fff;
+}
+.images img{
+    width: 78px;
+}
+h3{
+    color: orange;
+    font-weight: 700;
+    font-size: 2rem;
+}
